@@ -4,5 +4,7 @@ Capable of handling fractional and decimal calculations.
 This project has no outside dependencies.
 ## Example Calculations
 `+1 2`-> `3`
+
 `+/1 2/1 4`-> `3/4`
+
 `+0.5/1 4`-> `0.75`
